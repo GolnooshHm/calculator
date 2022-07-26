@@ -1,6 +1,9 @@
+.h1{
+	text-align: center;
+}
 body{
 	font-family: 'Times New Roman', Times, serif,sans-serif;
-	background-color: rgb(32, 187, 218);
+	background-color: rgb(175, 32, 218);
 }
 
 #calculator{
@@ -57,25 +60,25 @@ body{
 }
 button:nth-child(3){
 	font-size: 20px;
-	background-color: #f3a07d;
+	background-color: #837df3;
 }
 button:nth-child(4){
 	font-size: 20px;
-	background-color: #51dcd5;
+	background-color: #837df3;
 }
 button:nth-child(8){
 	font-size: 20px;
-	background-color: #ffa500;
+	background-color: #837df3;
 }
 button:nth-child(12){
 	font-size: 20px;
-	background-color: #f08080;
+	background-color: #837df3;
 }
 button:nth-child(16){
 	font-size: 20px;
-	background-color: #7d93e0;
+	background-color: #837df3;
 }
 button:nth-child(20){
 	font-size: 20px;
-	background-color: #77aaaf;
+	background-color: #837df3;
 }
